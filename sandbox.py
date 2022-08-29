@@ -66,3 +66,5 @@ class Bar(Foo):
         super().__init__(555, 666)
 
 Bar(6667877)
+
+# test
